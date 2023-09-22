@@ -7,7 +7,7 @@ const inter = Ubuntu({ weight: "300", subsets: ["latin"] });
 
 export const metadata = {
   title: "Next.js Static CMS Blog",
-  description: "Next.js blog template for Static CMS on Netlify",
+  description: "Je fais juste un test c'est rien",
 };
 
 const RootLayout: FC<PropsWithChildren> = ({ children }) => {
